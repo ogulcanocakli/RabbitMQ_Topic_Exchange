@@ -1,0 +1,17 @@
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\bin\Debug\net6.0\RequestRabbitMQ.exe
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\bin\Debug\net6.0\RequestRabbitMQ.deps.json
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\bin\Debug\net6.0\RequestRabbitMQ.runtimeconfig.json
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\bin\Debug\net6.0\RequestRabbitMQ.dll
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\bin\Debug\net6.0\RequestRabbitMQ.pdb
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.csproj.CopyComplete
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.dll
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\refint\RequestRabbitMQ.dll
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.pdb
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\RequestRabbitMQ.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\RabbitMQ Topic Exchange\RequestRabbitMQ\obj\Debug\net6.0\ref\RequestRabbitMQ.dll
